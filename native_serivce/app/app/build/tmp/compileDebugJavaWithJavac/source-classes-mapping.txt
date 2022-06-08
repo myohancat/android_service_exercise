@@ -1,0 +1,12 @@
+net/myocat/ITestService.java
+ net.myocat.ITestService
+ net.myocat.ITestService$Default
+ net.myocat.ITestService$Stub
+ net.myocat.ITestService$Stub$Proxy
+net/myocat/testapp/BuildConfig.java
+ net.myocat.testapp.BuildConfig
+net/myocat/ITestServiceListener.java
+ net.myocat.ITestServiceListener
+ net.myocat.ITestServiceListener$Default
+ net.myocat.ITestServiceListener$Stub
+ net.myocat.ITestServiceListener$Stub$Proxy
